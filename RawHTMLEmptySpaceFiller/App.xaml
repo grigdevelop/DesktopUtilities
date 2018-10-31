@@ -1,7 +1,6 @@
-﻿<Application x:Class="HtmlForBloggerCom.App"
+﻿<Application x:Class="RawHTMLEmptySpaceFiller.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:HtmlForBloggerCom"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          
